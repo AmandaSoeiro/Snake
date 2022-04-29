@@ -1,0 +1,30 @@
+
+body{
+    background-image:url("mario.png");
+    background-size:cover;
+}
+
+
+
+#snake {
+  height: 465px;
+  margin-left: 54%;
+   border-radius: 8px;
+
+}
+
+.two-colors{
+margin-left: 54%;
+margin-bottom: 10px;
+margin-top: 20px;
+font-size: 80px;
+background: linear-gradient(to right,
+blue 20%,
+green 20%, green 40%,
+red 40%, red 62%,
+orange 60%, orange 82%,
+rgb(3, 116, 22) 80%
+);
+color: rgb(223, 242, 250);
+}
+
